@@ -102,6 +102,11 @@ Copy the key to your clipboard:
 And finaly, paste the key to Github page you have opened, and enter an identifier for your computer in the space named 'Title'.
 
 ![System Screenshots](images/img7.png)
+
+And finally, execute these commands to exclude the `.DS_Store` files.
+
+	git config --global core.excludesfile ~/.gitignore
+	echo *.DS_Store >> ~/.gitignore
 You are all set to use Github.
 
 ## Python 2.x and 3.x
