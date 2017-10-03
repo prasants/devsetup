@@ -136,6 +136,8 @@ Execute the next set of commands in iTerm2, to setup Python 2 and 3, along with 
 	pip install jupyter
 	pip3 install jupyter
 	
+	brew cask install anaconda
+	
 ## Virtualenv
 
 [Virtualenv](http://www.virtualenv.org/) creates an isolated Python environments for each project.
