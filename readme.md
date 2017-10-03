@@ -211,4 +211,4 @@ This will install R with XQuartz support, followed by installing R Studio with a
 ## MacDown
 **[MacDown](https://macdown.uranusjr.com/)** is an open source **Markdown** editor for macOS, released under the MIT License. Install with the following command:
 	
-	brew cask install macdown.
+	brew cask install macdown
